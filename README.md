@@ -1,3 +1,3 @@
 # BIRD
 
-https://dacon.io/competitions/official/236251/codeshare?page=1&dtype=recent&ptype=pub&keyword
+https://www.notion.so/12f22f068d7f80418baef50a1c401abf
